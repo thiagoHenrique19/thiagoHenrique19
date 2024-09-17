@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoOliveira07&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoOliveira07&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
