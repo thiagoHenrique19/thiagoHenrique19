@@ -24,6 +24,10 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     <img width="12" />
+        <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
+    <img width="12" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
+    <img width="12" />
    
 </div>
 
