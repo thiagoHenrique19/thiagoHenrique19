@@ -24,14 +24,16 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
    <img width="12" />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
     <img width="12" />
 </div>
 
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">📱 My contact :</h3>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=thiagHenrique19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?
 </div>
 
 <div align="center">
