@@ -38,7 +38,7 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
 
 <div align="center">
     
-<a href="(https://www.instagram.com/_thiagohenrique?igsh=MW1yOTZ5cGE5NWhwaw%3D%3D&utm_source=qr)">
+<a href="https://www.instagram.com/_thiagohenrique?igsh=MW1yOTZ5cGE5NWhwaw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
 </div>
