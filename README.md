@@ -20,6 +20,8 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     <img width="12" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="40" alt="mysql logo" />
+    <img width="12" />
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
    <img width="12" />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
