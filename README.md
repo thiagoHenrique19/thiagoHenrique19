@@ -1,5 +1,10 @@
 Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
@@ -33,13 +38,12 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-
 <h3 align="left">📱 My contact :</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?
 </div>
     
-<img src="https://raw.githubusercontent.com/thiagohenrique19/thiagohenrique19/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
     
