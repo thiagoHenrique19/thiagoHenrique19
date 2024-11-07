@@ -38,6 +38,8 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
 <div align="center">
 <img src="https://streak-stats.demolab.com?
 </div>
+    
+<img src="https://raw.githubusercontent.com/thiagohenrique19/thiagohenrique19/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
     
