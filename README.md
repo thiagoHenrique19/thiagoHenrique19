@@ -42,6 +42,9 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
 <img src="https://streak-stats.demolab.com?
 </div>
     
+<p align="center">
+  <a href="mailto:thiagohenriquedeoliveira015@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
 
 
 <div align="center">
