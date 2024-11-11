@@ -1,4 +1,4 @@
-Hi 👋! My name is Thiago and I'm a Java Trainee</h3>
+Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 
 
 <picture>
