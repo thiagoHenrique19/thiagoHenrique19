@@ -39,7 +39,7 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 </div>
 
 
-### Commits
+<h3 align="left">Commits</h3>
  
 
 
@@ -48,14 +48,14 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagoHenrique19&theme=highcontrast)
 
-### 📈 My GitHub Stats:
+<h3 align="left">📈 My GitHub Stats:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast)
 
  
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thiagoHenrique19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
 
-### 🎯 Streak:
+<h3 align="left">🎯 Streak:</h3>
 
  <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoHenrique19&theme=highcontrast&hide_border=true" alt="gauravkesh" />
 
