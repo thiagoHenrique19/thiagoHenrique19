@@ -7,12 +7,6 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
@@ -35,7 +29,34 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
    <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+
+<div
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
+### Commits
+ 
+
+
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagoHenrique19&theme=highcontrast)
+
+### 📈 My GitHub Stats:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast)
+
+ 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thiagoHenrique19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=highcontrast" />
+
+### 🎯 Streak:
+
+ <img align="center"   width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoHenrique19&theme=highcontrast&hide_border=true" alt="gauravkesh" />
 
 <h3 align="left">📱 My contact :</h3>
 <div align="center">
