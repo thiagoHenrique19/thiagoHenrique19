@@ -38,7 +38,7 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 </div>
 
 
-<h3 align="left">Commits</h3>
+<h3 align="left">🚀Commits</h3>
  
 
 <div align="center">
