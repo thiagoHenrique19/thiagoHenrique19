@@ -34,7 +34,6 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -42,7 +41,8 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 <h3 align="left">Commits</h3>
  
 
-
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 
 
 
