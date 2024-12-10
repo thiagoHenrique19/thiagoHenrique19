@@ -1,17 +1,17 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # Run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
   
-  # allows to manually run the job at any time
+  # Allows manual triggering
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Run on every push to the master branch
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -21,27 +21,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # Generate the snake animation with custom colors
+      - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          color_snake: "#00FF00" # Green snake
+          color_dots: "#FFFFFF,#AAAAAA" # White and gray dots
+          color_background: "#000000" # Black background
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push the content to the output branch
+      - name: Push GitHub contribution grid snake
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
           external_repository: ${{ github.repository }}
           publish_dir: dist
-
-      # Apply custom colors
-      - name: apply custom colors
-        run: |
-          sed -i 's/#181818/black/' dist/github-contribution-grid-snake.svg
-          sed -i 's/#58a6ff/#00FF00/' dist/github-contribution-grid-snake.svg
-
