@@ -26,12 +26,9 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 <div
 
-
-
 <div align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
 
 <h3 align="left">🚀Commits</h3>
  
@@ -46,6 +43,12 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 <h3 align="left">📈 My GitHub Stats:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast)
+
+<h3 align="left">🔝 Top Contributed Repository</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=thiagoHenrique19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=thiagoHenrique19&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h3 align="left">🎯 Streak:</h3>
 
