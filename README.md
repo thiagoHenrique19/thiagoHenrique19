@@ -44,11 +44,7 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast)
 
-<h3 align="left">🔝 Top Contributed Repository</h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=thiagoHenrique19&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=thiagoHenrique19&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <h3 align="left">🎯 Streak:</h3>
 
