@@ -27,7 +27,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           color_snake: "#00FF00" # Green snake
-          color_dots: "#FFFFFF,#AAAAAA" # White and gray dots
+          color_dots: "#000000,#000000" # White and gray dots
           color_background: "#000000" # Black background
           outputs: |
             dist/github-contribution-grid-snake.svg
