@@ -40,7 +40,7 @@ jobs:
      with:
     color_snake: "#00FF00" # Cor da cobra (verde, por exemplo)
     color_dots: "#FFFFFF,#AAAAAA" # Cores dos pontos (claro e escuro)
-    color_background: "#000000"
+    color_background: "black"
           target_branch: output
           build_dir: dist
         env:
