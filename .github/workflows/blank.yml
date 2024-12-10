@@ -31,7 +31,7 @@ jobs:
           color_background: "#000000" # Black background
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
 
       # Push the content to the output branch
       - name: Push GitHub contribution grid snake
