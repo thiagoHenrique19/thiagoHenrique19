@@ -36,8 +36,11 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
+      - uses: Platane/snk/svg
+     with:
+    color_snake: "#00FF00" # Cor da cobra (verde, por exemplo)
+    color_dots: "#FFFFFF,#AAAAAA" # Cores dos pontos (claro e escuro)
+    color_background: "#000000"
           target_branch: output
           build_dir: dist
         env:
