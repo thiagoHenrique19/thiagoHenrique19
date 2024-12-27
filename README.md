@@ -25,9 +25,13 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
          <img width="12" />
          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
          <img width="12" />
+          <img src="https://logospng.org/download/javascript/logo-javascript-icon-512.png" height="40" alt="JavaScript"  />
+        <img width="12" />
        <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
        <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+        
+        
 <div
 
 <div align="center">
