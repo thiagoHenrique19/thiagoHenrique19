@@ -5,9 +5,12 @@ Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
-        <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
-      <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+      <img width="12" />
+              <img width="12" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="vs code logo"  />
+          <img width="12" />
+                <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
       <img width="12" />
         <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
         <img width="12" />
