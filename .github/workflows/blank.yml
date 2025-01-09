@@ -25,7 +25,7 @@ jobs:
       - name: Generate GitHub contribution grid snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ thiagoHenrique19 }}
           color_snake: "#00FF00" # Green snake
           color_dots: "#000000,#000000" # White and gray dots
           color_background: "#000000" # Black background
