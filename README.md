@@ -1,4 +1,4 @@
-Hi 👋! My name is Thiago and I'm a Java Trainee</h7>
+Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 
 ![github contribution grid animation](https://raw.githubusercontent.com/thiagoHenrique19/thiagoHenrique19/output/github-contribution-grid-snake.svg)
 
