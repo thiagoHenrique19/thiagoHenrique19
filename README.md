@@ -74,6 +74,10 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 <a href="https://www.instagram.com/_thiagohenrique?igsh=MW1yOTZ5cGE5NWhwaw%3D%3D&utm_source=qr">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
+<a href="https://www.linkedin.com/in/thiago-henrique-de-oliveira-10282a348/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
 </div>
 
 <p align="center">
