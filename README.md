@@ -2,6 +2,9 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 
 ![github contribution grid animation](https://raw.githubusercontent.com/thiagoHenrique19/thiagoHenrique19/output/github-contribution-grid-snake.svg)
 
+<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="80"</h3>
+
+
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
@@ -37,7 +40,6 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
        <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
        <img width="12" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-        
         
 <div
 
@@ -79,6 +81,7 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 </a>
 
 </div>
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
