@@ -8,32 +8,35 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
       <img width="12" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="vs code logo"  />
-          <img width="12" />
-                <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="vs code logo"  />
       <img width="12" />
-        <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
-        <img width="12" />
-          <img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" />
+      <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
       <img width="12" />
-         <img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" />
+      <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
       <img width="12" />
-        <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
-       <img width="12" />
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-        <img width="12" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-         <img width="12" />
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-         <img width="12" />
-         <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-          <img width="12" />
-         <td align="center" width="90">
+      <img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" />
+      <img width="12" />
+      <img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" />
+      <img width="12" />
+      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
+      <img width="12" />
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+      <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+      <img width="12" />
+      <img width="12" />  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />  
+      <img width="12" />      
+      <td align="center" width="90">
+      <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+      <img width="12" />
+      <td align="center" width="90">
         <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
         <br>
     </td>
