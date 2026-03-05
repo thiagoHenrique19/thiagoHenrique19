@@ -1,8 +1,6 @@
-Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
+Hi 👋! My name is Thiago and I'm a Full Stack Developer</h7>
 
 ![github contribution grid animation](https://raw.githubusercontent.com/thiagoHenrique19/thiagoHenrique19/output/github-contribution-grid-snake.svg)
-
-<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="80"</h3>
 
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -56,8 +54,6 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 <div align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagoHenrique19&theme=highcontrast)
-
 <h3 align="left">📈 My GitHub Stats:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast) 
@@ -84,8 +80,3 @@ Hi 👋! My name is Thiago and I'm a Full Stack Trainee</h7>
 </a>
 
 </div>
-
-
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
