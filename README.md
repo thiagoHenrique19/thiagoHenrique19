@@ -48,12 +48,6 @@ Hi 👋! My name is Thiago and I'm a Full Stack Developer</h7>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<h3 align="left">🚀Commits</h3>
- 
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoHenrique19&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-
 <h3 align="left">📈 My GitHub Stats:</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast) 
