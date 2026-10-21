@@ -19,7 +19,7 @@ public class ThiagoHenrique {
     private final String location = "Brazil 🇧🇷";
 
     private final String[] backend  = { "Java", "Spring Boot", "Hibernate", "Maven", "JUnit" };
-    private final String[] frontend = { "React", "JavaScript", "HTML", "CSS" };
+    private final String[] frontend = { "React", "TypeScript", "HTML", "CSS" };
     private final String[] database = { "PostgreSQL", "MySQL" };
     private final String[] devops   = { "AWS", "Docker", "Git", "Linux" };
 
