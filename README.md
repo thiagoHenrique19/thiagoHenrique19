@@ -1,76 +1,72 @@
-Hi 👋! My name is Thiago and I'm a Full Stack Developer</h7>
-
-![github contribution grid animation](https://raw.githubusercontent.com/thiagoHenrique19/thiagoHenrique19/output/github-contribution-grid-snake.svg)
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-      <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="vs code logo"  />
-      <img width="12" />
-      <img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" />
-      <img width="12" />
-      <img src="https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png" height="40" alt="maven logo" />
-      <img width="12" />
-      <img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" />
-      <img width="12" />
-      <img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" />
-      <img width="12" />
-      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="junit logo" />
-      <img width="12" />
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" height="40" alt="hibernate logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-      <img width="12" />
-      <img width="12" />  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />  
-      <img width="12" />      
-      <td align="center" width="90">
-      <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-      <img width="12" />
-      <td align="center" width="90">
-        <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-        <br>
-    </td>
-       <img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" />
-       <img width="12" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-        
-<div
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoHenrique19&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<h3 align="left">📈 My GitHub Stats:</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagoHenrique19&theme=highcontrast) 
-
-
-
-<h3 align="left">📱 My contact :</h3>
-<div align="center">
-<img src="https://streak-stats.demolab.com?
-</div>
-    
+<!-- Banner -->
 <p align="center">
-  <a href="mailto:thiagohenriquedeoliveira015@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mail" height="50" width="55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Thiago%20Henrique&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+no+back-end+%E2%98%95;React+no+front-end+%E2%9A%9B%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 
 
-<div align="center">
-    
-<a href="https://www.instagram.com/_thiagohenrique?igsh=MW1yOTZ5cGE5NWhwaw%3D%3D&utm_source=qr">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-<a href="https://www.linkedin.com/in/thiago-henrique-de-oliveira-10282a348/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
+public class ThiagoHenrique {
 
-</div>
+    private final String role = "Full Stack Developer";
+    private final String location = "Brazil 🇧🇷";
+
+    private final String[] backend  = { "Java", "Spring Boot", "Hibernate", "Maven", "JUnit" };
+    private final String[] frontend = { "React", "JavaScript", "HTML", "CSS" };
+    private final String[] database = { "PostgreSQL", "MySQL" };
+    private final String[] devops   = { "Docker", "Git", "Linux" };
+
+    public String currentFocus() {
+        return "Building clean, tested and scalable applications";
+    }
+}
+
+---
+
+> tech --stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,react,js,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea,vscode&theme=dark" />
+</p>
+
+---
+
+### `> git log --stats`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thiagoHenrique19&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+
+---
+
+> contact --me
+
+<p align="center">
+  <a href="mailto:thiagohenriquedeoliveira015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-henrique-de-oliveira-10282a348/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/_thiagohenrique">
+    <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thiagoHenrique19&color=7aa2f7&style=flat-square&label=profile+views" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
+</p>
