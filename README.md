@@ -12,6 +12,7 @@
 ---
 
 
+```java
 public class ThiagoHenrique {
 
     private final String role = "Full Stack Developer";
@@ -26,7 +27,7 @@ public class ThiagoHenrique {
         return "Building clean, tested and scalable applications";
     }
 }
-
+```
 ---
 
 > tech --stack
