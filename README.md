@@ -21,23 +21,22 @@ public class ThiagoHenrique {
     private final String[] backend  = { "Java", "Spring Boot", "Hibernate", "Maven", "JUnit" };
     private final String[] frontend = { "React", "JavaScript", "HTML", "CSS" };
     private final String[] database = { "PostgreSQL", "MySQL" };
-    private final String[] devops   = { "Docker", "Git", "Linux" };
+    private final String[] devops   = { "AWS", "Docker", "Git", "Linux" };
 
     public String currentFocus() {
         return "Building clean, tested and scalable applications";
     }
 }
 ```
----
 
-> tech --stack
+
+### `> tech --stack`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,react,js,html,css&theme=dark" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,idea,vscode&theme=dark" />
 </p>
-
 ---
 
 ### `> git log --stats`
