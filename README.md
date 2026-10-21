@@ -33,10 +33,11 @@ public class ThiagoHenrique {
 ### `> tech --stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,react,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,react,ts,js,html,css&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,idea,vscode&theme=dark" />
 </p>
+
 ---
 
 ### `> git log --stats`
