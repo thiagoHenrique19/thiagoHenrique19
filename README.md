@@ -1,47 +1,73 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Thiago%20Henrique&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+</p>
 
-<img src="assets/hero.svg" alt="Terminal: GET /dev/thiago retorna Thiago Henrique, Desenvolvedor de Software Jr na Segala's Alimentos, desde 2023" width="860" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Java+%2B+Spring+Boot+no+back-end+%E2%98%95;React+no+front-end+%E2%9A%9B%EF%B8%8F;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<br/>
+---
 
-**Desenvolvedor full stack.** Java e Spring, React e TypeScript.<br/>
-Trabalho no e-commerce da Segala's Alimentos desde 2023, de aprendiz a desenvolvedor.
 
-<br/>
+```java
+public class ThiagoHenrique {
 
-<a href="https://thiagoHenrique19.github.io/portfolio">
-  <img src="https://img.shields.io/badge/PORTF%C3%93LIO-ver%20site-c8ff3c?style=for-the-badge&labelColor=0a0a0a" alt="Ver portfólio" />
-</a>
-<a href="mailto:thiagohenriquedeoliveira015@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" />
-</a>
-<a href="https://www.linkedin.com/in/thiago-henrique-de-oliveira-10282a348/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/_thiagohenrique">
-  <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-</a>
+    private final String role = "Full Stack Developer";
+    private final String location = "Brazil 🇧🇷";
 
-</div>
+    private final String[] backend  = { "Java", "Spring Boot", "Hibernate", "Maven", "JUnit" };
+    private final String[] frontend = { "React", "TypeScript", "HTML", "CSS" };
+    private final String[] database = { "PostgreSQL", "MySQL" };
+    private final String[] devops   = { "AWS", "Docker", "Git", "Linux" };
 
-<br/>
+    public String currentFocus() {
+        return "Building clean, tested and scalable applications";
+    }
+}
+```
 
-### `> stack --list`
 
-<div align="center">
-  <img src="assets/stack.svg" alt="Stack: back-end com Java, Spring, Hibernate, Maven e JUnit5; front-end com HTML5, CSS3, JavaScript, TypeScript, React e Tailwind CSS; banco de dados com MySQL, PostgreSQL, Oracle e DBeaver; cloud com AWS e Docker; ferramentas e sistemas com Git, GitHub, IntelliJ IDEA, Windows, Linux e Apple" width="860" />
-</div>
+### `> tech --stack`
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,react,ts,js,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,idea,vscode&theme=dark" />
+</p>
+
+---
 
 ### `> git log --stats`
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thiagoHenrique19&hide_border=true&border_radius=14&background=0A0A0A&ring=C8FF3C&fire=C8FF3C&currStreakNum=ECEBE6&sideNums=ECEBE6&currStreakLabel=C8FF3C&sideLabels=9A9A93&dates=9A9A93&stroke=262624" alt="Estatísticas de contribuição no GitHub" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thiagoHenrique19&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-<br/>
 
-<div align="center">
-  <sub><code>$ exit 0</code> · <a href="https://thiagoHenrique19.github.io/portfolio">thiagoHenrique19.github.io/portfolio</a></sub>
-</div>
+---
+
+> contact --me
+
+<p align="center">
+  <a href="mailto:thiagohenriquedeoliveira015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiago-henrique-de-oliveira-10282a348/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/_thiagohenrique">
+    <img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thiagoHenrique19&color=7aa2f7&style=flat-square&label=profile+views" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
+</p>
